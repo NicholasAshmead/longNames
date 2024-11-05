@@ -19,3 +19,5 @@ This contains a list of some long names.
 [Seán Dublin Bay Rockall Loftus](https://en.wikipedia.org/wiki/Se%C3%A1n_Dublin_Bay_Rockall_Loftus)
 
 [Amandagamani Abhaya of Anuradhapura](https://en.wikipedia.org/w/index.php?title=Amandagamani_Abhaya_of_Anuradhapura)
+
+[Muthuvel Karunanidhi Stalin](https://en.wikipedia.org/wiki/M._K._Stalin)
