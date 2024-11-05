@@ -1,4 +1,5 @@
-# longNames
+# Long Names
+This contains a list of some long names.
 
 [Richard Temple-Nugent-Brydges-Chandos-Grenville, 3rd Duke of Buckingham and Chandos](https://en.wikipedia.org/wiki/Richard_Temple-Nugent-Brydges-Chandos-Grenville,_3rd_Duke_of_Buckingham_and_Chandos)
 
