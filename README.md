@@ -17,3 +17,5 @@ This contains a list of some long names.
 [Vladimiro Lenin Ilich Montesinos Torres](https://en.wikipedia.org/wiki/Vladimiro_Montesinos)
 
 [Seán Dublin Bay Rockall Loftus](https://en.wikipedia.org/wiki/Se%C3%A1n_Dublin_Bay_Rockall_Loftus)
+
+[Amandagamani Abhaya of Anuradhapura](https://en.wikipedia.org/w/index.php?title=Amandagamani_Abhaya_of_Anuradhapura)
